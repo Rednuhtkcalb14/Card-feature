@@ -1,4 +1,4 @@
-# Four card freature section
+# Four card feature section
 
 Link to the figma project:
 
